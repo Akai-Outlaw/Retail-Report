@@ -6,7 +6,7 @@ An Excel business-intelligence project analyzing **9,994 order lines (5,009 orde
 
 📊 **File:** [`Retail_Report.xlsx`](Retail_Report.xlsx) (download and open in Excel; the Dashboard sheet is the summary)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
